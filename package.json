@@ -1,0 +1,16 @@
+{
+  "name": "1d1p_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AymericM",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "he": "^1.1.1",
+    "twit": "^2.2.9"
+  }
+}
